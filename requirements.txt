@@ -1,0 +1,5 @@
+pyrogram
+asyncio
+bs4
+aiohttp
+tgcrypto==1.2.3
